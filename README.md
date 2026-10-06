@@ -1,4 +1,4 @@
-# mergefix
+# Mergefix
 
 **mergefix is a small, fast desktop app for resolving Git merge conflicts on macOS and Linux.** It opens the conflicted file as a full text editor and highlights every conflict. Each conflict gets buttons to keep your side, their side, or both. You can also tick the exact lines you want, or fix the text by hand.
 
